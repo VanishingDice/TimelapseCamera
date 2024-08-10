@@ -1,7 +1,7 @@
-Introduction video on [Bilibili](https://www.bilibili.com/video/BV1rCYEewEnP/)
-Hardware opensource on [OSHWHub](https://oshwhub.com/vanishingdice/long-time-camera)
+Introduction video on [Bilibili](https://www.bilibili.com/video/BV1rCYEewEnP/)<br>
+Hardware opensource on [OSHWHub](https://oshwhub.com/vanishingdice/long-time-camera)<br>
 
-For arduino uno/nano board
+For arduino uno/nano board<br>
 
 *IMPORTANT NOTICE:
 ==================
