@@ -1,11 +1,11 @@
-Introduction video on <www.bilibili.com/video/BV1rCYEewEnP>
+Introduction video on [Bilibili](https://www.bilibili.com/video/BV1rCYEewEnP/)
 
 For arduino uno/nano board
 
 *IMPORTANT NOTICE:
 ==================
 For some of the ST7735 green tab screen, you have to change the library file for proper color showing<br>
-See details on <github.com/adafruit/Adafruit-ST7735-Library/issues/154><br>
+See details on [Here](https://github.com/adafruit/Adafruit-ST7735-Library/issues/154)<br>
 <br>
 >Seems like the RGB coding that this screen expects is ST77XX_MADCTL_RGB instead of ST7735_MADCTL_BGR
 >Initializing it with BLACKTAB works for color but gets bottom and right edges wrong.
