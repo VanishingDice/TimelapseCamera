@@ -15,7 +15,7 @@ Seems like people are referring to these screens as YELLOWTAB ... anyway these o
 
 In order to solve out the problem I had to modify the library file "Adafruit_ST7735.cpp" and change these lines :
 
-'''
+```
 ...
 switch (rotation) {
 case 0:
@@ -49,7 +49,7 @@ madctl = ST77XX_MADCTL_MX | ST77XX_MADCTL_MV | ST77XX_MADCTL_RGB;
 // madctl = ST77XX_MADCTL_MX | ST77XX_MADCTL_MV | ST7735_MADCTL_BGR;
 madctl = ST77XX_MADCTL_MX | ST77XX_MADCTL_MV | ST77XX_MADCTL_RGB;
 ...
-'''
+```
 
 Linking:
 TFT_CS    10
