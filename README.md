@@ -51,7 +51,8 @@ madctl = ST77XX_MADCTL_MX | ST77XX_MADCTL_MV | ST77XX_MADCTL_RGB;
 ...
 ```
 
-Linking:<br>
+Linking:
+--------
 TFT_CS    10<br>
 TFT_RST   9<br>
 TFT_DC    8<br>
@@ -62,7 +63,8 @@ RockerX   A0<br>
 RockerY   A1<br>
 RockerSw  A2<br>
 
-abbr.
+Abbr.
+-----
 num: number of pictures
 int: interval time
 dur: total duraion
