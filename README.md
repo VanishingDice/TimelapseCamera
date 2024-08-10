@@ -51,16 +51,16 @@ madctl = ST77XX_MADCTL_MX | ST77XX_MADCTL_MV | ST77XX_MADCTL_RGB;
 ...
 ```
 
-Linking:
-TFT_CS    10
-TFT_RST   9
-TFT_DC    8
-MOSI      11
-SCLK      13
-Servo     6
-RockerX   A0
-RockerY   A1
-RockerSw  A2
+Linking:<br>
+TFT_CS    10<br>
+TFT_RST   9<br>
+TFT_DC    8<br>
+MOSI      11<br>
+SCLK      13<br>
+Servo     6<br>
+RockerX   A0<br>
+RockerY   A1<br>
+RockerSw  A2<br>
 
 abbr.
 num: number of pictures
