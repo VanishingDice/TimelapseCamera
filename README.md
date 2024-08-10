@@ -3,9 +3,10 @@ Introduction video on: www.bilibili.com/video/BV1rCYEewEnP
 For arduino uno/nano board
 
 *IMPORTANT NOTICE:
+==================
 For some of the ST7735 green tab screen, you have to change the library file for proper color showing
 See details on: github.com/adafruit/Adafruit-ST7735-Library/issues/154
--------------------------------------------------------------------------
+
 Seems like the RGB coding that this screen expects is ST77XX_MADCTL_RGB instead of ST7735_MADCTL_BGR
 Initializing it with BLACKTAB works for color but gets bottom and right edges wrong.
 Initializing it with GREENTAB works for edges but not for colors
@@ -49,7 +50,6 @@ madctl = ST77XX_MADCTL_MX | ST77XX_MADCTL_MV | ST77XX_MADCTL_RGB;
 madctl = ST77XX_MADCTL_MX | ST77XX_MADCTL_MV | ST77XX_MADCTL_RGB;
 ...
 '''
--------------------------------------------------------------------------
 
 Linking:
 TFT_CS    10
