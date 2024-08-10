@@ -52,15 +52,15 @@ madctl = ST77XX_MADCTL_MX | ST77XX_MADCTL_MV | ST77XX_MADCTL_RGB;
 
 Linking:
 --------
-TFT_CS\t\t10<br>
-TFT_RST\t\t9<br>
-TFT_DC\t\t8<br>
-MOSI\t\t11<br>
-SCLK\t\t13<br>
-Servo\t\t6<br>
-RockerX\t\tA0<br>
-RockerY\t\tA1<br>
-RockerSw\t\tA2<br>
+TFT_CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10<br>
+TFT_RST&nbsp;&nbsp;&nbsp;&nbsp;9<br>
+TFT_DC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8<br>
+MOSI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11<br>
+SCLK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13<br>
+Servo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6<br>
+RockerX&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A0<br>
+RockerY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A1<br>
+RockerSw&nbsp;&nbsp;&nbsp;&nbsp;A2<br>
 
 Abbr.
 -----
