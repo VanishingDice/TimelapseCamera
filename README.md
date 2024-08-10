@@ -65,6 +65,6 @@ RockerSw  A2<br>
 
 Abbr.
 -----
-num: number of pictures
-int: interval time
-dur: total duraion
+num: number of pictures<br>
+int: interval time<br>
+dur: total duraion<br>
