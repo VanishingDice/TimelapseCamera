@@ -14,6 +14,7 @@ Seems like people are referring to these screens as YELLOWTAB ... anyway these o
 
 In order to solve out the problem I had to modify the library file "Adafruit_ST7735.cpp" and change these lines :
 
+'''
 ...
 switch (rotation) {
 case 0:
